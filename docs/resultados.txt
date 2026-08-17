@@ -1,0 +1,115 @@
+{
+  "comparacao_por_destino": [
+    {
+      "destino": "Vila Nova",
+      "custo_astar_min": 2.46,
+      "nos_visitados_astar": 1,
+      "custo_bfs_min": 2.46,
+      "nos_visitados_bfs": 6,
+      "custo_dfs_min": 32.53,
+      "nos_visitados_dfs": 8
+    },
+    {
+      "destino": "Jardim das Flores",
+      "custo_astar_min": 5.14,
+      "nos_visitados_astar": 2,
+      "custo_bfs_min": 5.14,
+      "nos_visitados_bfs": 11,
+      "custo_dfs_min": 39.76,
+      "nos_visitados_dfs": 11
+    },
+    {
+      "destino": "Bela Vista",
+      "custo_astar_min": 4.11,
+      "nos_visitados_astar": 1,
+      "custo_bfs_min": 4.11,
+      "nos_visitados_bfs": 8,
+      "custo_dfs_min": 29.96,
+      "nos_visitados_dfs": 6
+    },
+    {
+      "destino": "Sao Jorge",
+      "custo_astar_min": 7.13,
+      "nos_visitados_astar": 3,
+      "custo_bfs_min": 7.13,
+      "nos_visitados_bfs": 12,
+      "custo_dfs_min": 26.94,
+      "nos_visitados_dfs": 5
+    },
+    {
+      "destino": "Industrial",
+      "custo_astar_min": 6.89,
+      "nos_visitados_astar": 2,
+      "custo_bfs_min": 6.89,
+      "nos_visitados_bfs": 11,
+      "custo_dfs_min": 36.96,
+      "nos_visitados_dfs": 9
+    },
+    {
+      "destino": "Praia Grande",
+      "custo_astar_min": 8.24,
+      "nos_visitados_astar": 3,
+      "custo_bfs_min": 22.48,
+      "nos_visitados_bfs": 12,
+      "custo_dfs_min": 17.93,
+      "nos_visitados_dfs": 2
+    },
+    {
+      "destino": "Alto da Serra",
+      "custo_astar_min": 6.57,
+      "nos_visitados_astar": 3,
+      "custo_bfs_min": 6.57,
+      "nos_visitados_bfs": 12,
+      "custo_dfs_min": 25.24,
+      "nos_visitados_dfs": 4
+    },
+    {
+      "destino": "Parque Verde",
+      "custo_astar_min": 9.57,
+      "nos_visitados_astar": 6,
+      "custo_bfs_min": 18.48,
+      "nos_visitados_bfs": 10,
+      "custo_dfs_min": 21.93,
+      "nos_visitados_dfs": 3
+    },
+    {
+      "destino": "Sao Miguel",
+      "custo_astar_min": 9.35,
+      "nos_visitados_astar": 4,
+      "custo_bfs_min": 15.56,
+      "nos_visitados_bfs": 11,
+      "custo_dfs_min": 15.56,
+      "nos_visitados_dfs": 1
+    },
+    {
+      "destino": "Vila Rica",
+      "custo_astar_min": 8.99,
+      "nos_visitados_astar": 3,
+      "custo_bfs_min": 8.99,
+      "nos_visitados_bfs": 12,
+      "custo_dfs_min": 39.06,
+      "nos_visitados_dfs": 10
+    },
+    {
+      "destino": "Novo Horizonte",
+      "custo_astar_min": 2.97,
+      "nos_visitados_astar": 1,
+      "custo_bfs_min": 2.97,
+      "nos_visitados_bfs": 10,
+      "custo_dfs_min": 33.28,
+      "nos_visitados_dfs": 7
+    }
+  ],
+  "ganho_medio_min_astar_vs_bfs": 2.67,
+  "ganho_medio_percentual_astar_vs_bfs": 29.1,
+  "media_nos_visitados_astar": 2.64,
+  "media_nos_visitados_bfs": 10.45,
+  "kmeans_silhouette_por_k": {
+    "2": 0.462,
+    "3": 0.506,
+    "4": 0.521,
+    "5": 0.495
+  },
+  "kmeans_k_escolhido": 4,
+  "kmeans_inertia": 33.3
+}
