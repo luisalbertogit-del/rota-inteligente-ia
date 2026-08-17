@@ -1,0 +1,14 @@
+id,nome,x_km,y_km
+  0,Centro (Sabor Express),0.0,0.0
+  1,Vila Nova,2.0,1.0
+  2,Jardim das Flores,4.0,2.0
+  3,Bela Vista,1.0,3.0
+  4,Sao Jorge,3.0,4.0
+  5,Industrial,5.0,0.0
+  6,Praia Grande,6.5,3.0
+  7,Alto da Serra,2.0,5.0
+  8,Parque Verde,4.5,5.5
+  9,Sao Miguel,7.0,1.0
+  10,Vila Rica,5.0,-2.0
+  11,Novo Horizonte,-2.0,2.0
+  
