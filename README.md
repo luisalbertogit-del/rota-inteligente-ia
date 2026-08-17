@@ -166,8 +166,8 @@ Pré-requisitos: Python 3.10+.
 
 ```bash
 # 1. clonar o repositório
-git clone <URL-DO-SEU-REPOSITORIO>
-cd sabor-express
+git clone https://github.com/luisalbertogit-del/rota-inteligente-ia.git
+cd rota-inteligente-ia
 
 # 2. instalar as dependências
 pip install -r requirements.txt
