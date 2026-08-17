@@ -181,7 +181,5 @@ O desafio consiste em desenvolver uma solução baseada em Inteligência Artific
 
                                                Os gráficos serão salvos em `docs/` e um resumo numérico dos resultados em `docs/resultados.txt`. Rodar o passo 4 novamente sempre reproduz exatamente os mesmos números (os dados usam seed fixa), então os resultados descritos na seção 5 podem ser conferidos a qualquer momento.
 
-                                               ## Vídeo Pitch
-
-                                               *(link do vídeo no YouTube a ser adicionado após a gravação)*
+                                               
                                                
